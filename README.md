@@ -12,7 +12,7 @@ Aluno do curso Data Science na prática, do mestre [*Carlos Melo*](http://sigmoi
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nelsontmiranda)
-* [Medium](https:medium.com)
+* [Medium](https:medium.com/tnelsonmiranda)
 
 ## Projetos:
 
