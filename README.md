@@ -17,5 +17,6 @@ Aluno do curso Data Science na prática, do mestre [*Carlos Melo*](http://sigmoi
 ## Projetos:
 
 ---
+* **Análise dos dados do Airbnb da cidade de Sydney:** https://bit.ly/3dyKO7y
 
 
