@@ -16,5 +16,5 @@ Aluno do curso Data Science na prática, do mestre [*Carlos Melo*](http://sigmoi
 
 ---
 * **Análise dos dados do Airbnb da cidade de Sydney:** https://bit.ly/3dyKO7y
-* **Analisando a violência no Rio de Janeiro:** https://bit.ly/2UvsrJ7
+* **Analisando a violência no Rio de Janeiro:** https://bit.ly/37lSeZt
 
