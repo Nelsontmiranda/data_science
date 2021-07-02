@@ -5,7 +5,7 @@
 # Nelson Miranda
 <sub>Aprendiz de Data Science</sub>
 
-Aluno do curso Data Science na prática, do mestre [*Carlos Melo*](http://sigmoidal.ai), formado em Administração pela Universidade Veiga de Almeida.
+Aprendendo Ciência de Dados na Alura. Procurando a profissionalização na área tecnológica. Formando em Administração.
 
 
 **Links:**
