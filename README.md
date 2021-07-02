@@ -10,11 +10,10 @@ Aluno do curso Data Science na prática, do mestre [*Carlos Melo*](http://sigmoi
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/nelsontmiranda)
-* [Medium](https://medium.com/@tnelsonmiranda)
 
 ## Projetos:
 
 ---
 * **Análise dos dados do Airbnb da cidade de Sydney:** https://bit.ly/3dyKO7y
-* **Analisando a violência no Rio de Janeiro:** https://bit.ly/3hiAnHE
+
 
